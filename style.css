@@ -1,0 +1,54 @@
+/* 
+   body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+        }
+        .container {
+            width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .header p {
+            font-size: 18px;
+            line-height: 1.6;
+            background-image: url(./img/background.png);
+            background-repeat: no-repeat;
+            padding: 50px;
+        }
+        .section {
+            margin-bottom: 10px;
+            
+        }
+        .section img {
+            width: 100%;
+            height: auto;
+        }
+        .section h2 {
+            color: #f47c7c;
+            font-size: 24px;
+            margin-top: 20px;
+        }   
+        .section p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+   */
+
+
+
+.pembuka{
+    background-color:#f47c7c; 
+    height:50px;  
+}
+.text-pembuka{
+    font-weight: bold;
+    font-family: Viga;
+    line-height:50px;
+} 
